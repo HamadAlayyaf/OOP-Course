@@ -1,2 +1,1 @@
-# OOP-Course
-project
+Project Specification: Vehicles management system
